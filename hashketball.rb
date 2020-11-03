@@ -3,24 +3,20 @@ def game_hash
   
   g_hash = {
     :home => {
-      :team_name => ""
-      :colors => [""]
+      :team_name => "",
+      :colors => [""],
       :players => [
-        
-        
+        {
+          :player_name =>,
+          :number =>,
+          :shoe =>,
+        },
+        {}
         
       ]
-    }
+    },
     :away => {
-      :team_name => {
-        
-      }
-      :colors => {
-        
-      }
-      :players => {
-        
-      }  
+       
     }
   }
   
